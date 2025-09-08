@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files
+data/
+models/
+*.csv
+*.pkl
+
+# System files
+.DS_Store
+
+# Virtual environment
+real_estate_env/
+venv/
