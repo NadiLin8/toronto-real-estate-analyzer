@@ -1,0 +1,501 @@
+property_id,address,neighborhood,property_type,assessed_value,bedrooms,bathrooms,square_feet,year_built,lot_size,assessment_year
+T1000,100 Sample Street,Downtown,Detached,972400,1,1,1262,1950,3000,2024
+T1001,101 Sample Street,Midtown,Semi-Detached,646638,2,2,1065,1951,3050,2024
+T1002,102 Sample Street,North York,Townhouse,900714,3,3,1332,1952,3100,2024
+T1003,103 Sample Street,Etobicoke,Condo,964557,4,1,960,1953,3150,2024
+T1004,104 Sample Street,Scarborough,Condo Townhouse,645326,1,2,1198,1954,3200,2024
+T1005,105 Sample Street,The Beaches,Detached,822323,2,3,1312,1955,3250,2024
+T1006,106 Sample Street,Leslieville,Semi-Detached,784708,3,1,1115,1956,3300,2024
+T1007,107 Sample Street,King West,Townhouse,760376,4,2,1382,1957,3350,2024
+T1008,108 Sample Street,Liberty Village,Condo,638421,1,3,1010,1958,3400,2024
+T1009,109 Sample Street,Corktown,Condo Townhouse,637026,2,1,1248,1959,3450,2024
+T1010,110 Sample Street,Downtown,Detached,982400,3,2,1362,1960,3500,2024
+T1011,111 Sample Street,Midtown,Semi-Detached,656638,4,3,1165,1961,3550,2024
+T1012,112 Sample Street,North York,Townhouse,910714,1,1,1432,1962,3600,2024
+T1013,113 Sample Street,Etobicoke,Condo,974557,2,2,1060,1963,3650,2024
+T1014,114 Sample Street,Scarborough,Condo Townhouse,655326,3,3,1298,1964,3700,2024
+T1015,115 Sample Street,The Beaches,Detached,832323,4,1,1412,1965,3750,2024
+T1016,116 Sample Street,Leslieville,Semi-Detached,794708,1,2,1215,1966,3800,2024
+T1017,117 Sample Street,King West,Townhouse,770376,2,3,1482,1967,3850,2024
+T1018,118 Sample Street,Liberty Village,Condo,648421,3,1,1110,1968,3900,2024
+T1019,119 Sample Street,Corktown,Condo Townhouse,647026,4,2,1348,1969,3950,2024
+T1020,120 Sample Street,Downtown,Detached,992400,1,3,1462,1970,4000,2024
+T1021,121 Sample Street,Midtown,Semi-Detached,666638,2,1,1265,1971,4050,2024
+T1022,122 Sample Street,North York,Townhouse,920714,3,2,1532,1972,4100,2024
+T1023,123 Sample Street,Etobicoke,Condo,984557,4,3,1160,1973,4150,2024
+T1024,124 Sample Street,Scarborough,Condo Townhouse,665326,1,1,1398,1974,4200,2024
+T1025,125 Sample Street,The Beaches,Detached,842323,2,2,1512,1975,4250,2024
+T1026,126 Sample Street,Leslieville,Semi-Detached,804708,3,3,1315,1976,4300,2024
+T1027,127 Sample Street,King West,Townhouse,780376,4,1,1582,1977,4350,2024
+T1028,128 Sample Street,Liberty Village,Condo,658421,1,2,1210,1978,4400,2024
+T1029,129 Sample Street,Corktown,Condo Townhouse,657026,2,3,1448,1979,4450,2024
+T1030,130 Sample Street,Downtown,Detached,1002400,3,1,1562,1980,4500,2024
+T1031,131 Sample Street,Midtown,Semi-Detached,676638,4,2,1365,1981,4550,2024
+T1032,132 Sample Street,North York,Townhouse,930714,1,3,1632,1982,4600,2024
+T1033,133 Sample Street,Etobicoke,Condo,994557,2,1,1260,1983,4650,2024
+T1034,134 Sample Street,Scarborough,Condo Townhouse,675326,3,2,1498,1984,4700,2024
+T1035,135 Sample Street,The Beaches,Detached,852323,4,3,1612,1985,4750,2024
+T1036,136 Sample Street,Leslieville,Semi-Detached,814708,1,1,1415,1986,4800,2024
+T1037,137 Sample Street,King West,Townhouse,790376,2,2,1682,1987,4850,2024
+T1038,138 Sample Street,Liberty Village,Condo,668421,3,3,1310,1988,4900,2024
+T1039,139 Sample Street,Corktown,Condo Townhouse,667026,4,1,1548,1989,4950,2024
+T1040,140 Sample Street,Downtown,Detached,1012400,1,2,1662,1990,5000,2024
+T1041,141 Sample Street,Midtown,Semi-Detached,686638,2,3,1465,1991,5050,2024
+T1042,142 Sample Street,North York,Townhouse,940714,3,1,1732,1992,5100,2024
+T1043,143 Sample Street,Etobicoke,Condo,1004557,4,2,1360,1993,5150,2024
+T1044,144 Sample Street,Scarborough,Condo Townhouse,685326,1,3,1598,1994,5200,2024
+T1045,145 Sample Street,The Beaches,Detached,862323,2,1,1712,1995,5250,2024
+T1046,146 Sample Street,Leslieville,Semi-Detached,824708,3,2,1515,1996,5300,2024
+T1047,147 Sample Street,King West,Townhouse,800376,4,3,1782,1997,5350,2024
+T1048,148 Sample Street,Liberty Village,Condo,678421,1,1,1410,1998,5400,2024
+T1049,149 Sample Street,Corktown,Condo Townhouse,677026,2,2,1648,1999,5450,2024
+T1050,150 Sample Street,Downtown,Detached,1022400,3,3,1762,2000,5500,2024
+T1051,151 Sample Street,Midtown,Semi-Detached,696638,4,1,1565,2001,5550,2024
+T1052,152 Sample Street,North York,Townhouse,950714,1,2,1832,2002,5600,2024
+T1053,153 Sample Street,Etobicoke,Condo,1014557,2,3,1460,2003,5650,2024
+T1054,154 Sample Street,Scarborough,Condo Townhouse,695326,3,1,1698,2004,5700,2024
+T1055,155 Sample Street,The Beaches,Detached,872323,4,2,1812,2005,5750,2024
+T1056,156 Sample Street,Leslieville,Semi-Detached,834708,1,3,1615,2006,5800,2024
+T1057,157 Sample Street,King West,Townhouse,810376,2,1,1882,2007,5850,2024
+T1058,158 Sample Street,Liberty Village,Condo,688421,3,2,1510,2008,5900,2024
+T1059,159 Sample Street,Corktown,Condo Townhouse,687026,4,3,1748,2009,5950,2024
+T1060,160 Sample Street,Downtown,Detached,1032400,1,1,1862,2010,6000,2024
+T1061,161 Sample Street,Midtown,Semi-Detached,706638,2,2,1665,2011,6050,2024
+T1062,162 Sample Street,North York,Townhouse,960714,3,3,1932,2012,6100,2024
+T1063,163 Sample Street,Etobicoke,Condo,1024557,4,1,1560,2013,6150,2024
+T1064,164 Sample Street,Scarborough,Condo Townhouse,705326,1,2,1798,2014,6200,2024
+T1065,165 Sample Street,The Beaches,Detached,882323,2,3,1912,2015,6250,2024
+T1066,166 Sample Street,Leslieville,Semi-Detached,844708,3,1,1715,2016,6300,2024
+T1067,167 Sample Street,King West,Townhouse,820376,4,2,1982,2017,6350,2024
+T1068,168 Sample Street,Liberty Village,Condo,698421,1,3,1610,2018,6400,2024
+T1069,169 Sample Street,Corktown,Condo Townhouse,697026,2,1,1848,2019,6450,2024
+T1070,170 Sample Street,Downtown,Detached,1042400,3,2,1962,1950,6500,2024
+T1071,171 Sample Street,Midtown,Semi-Detached,716638,4,3,1765,1951,6550,2024
+T1072,172 Sample Street,North York,Townhouse,970714,1,1,2032,1952,6600,2024
+T1073,173 Sample Street,Etobicoke,Condo,1034557,2,2,1660,1953,6650,2024
+T1074,174 Sample Street,Scarborough,Condo Townhouse,715326,3,3,1898,1954,6700,2024
+T1075,175 Sample Street,The Beaches,Detached,892323,4,1,2012,1955,6750,2024
+T1076,176 Sample Street,Leslieville,Semi-Detached,854708,1,2,1815,1956,6800,2024
+T1077,177 Sample Street,King West,Townhouse,830376,2,3,2082,1957,6850,2024
+T1078,178 Sample Street,Liberty Village,Condo,708421,3,1,1710,1958,6900,2024
+T1079,179 Sample Street,Corktown,Condo Townhouse,707026,4,2,1948,1959,6950,2024
+T1080,180 Sample Street,Downtown,Detached,1052400,1,3,2062,1960,7000,2024
+T1081,181 Sample Street,Midtown,Semi-Detached,726638,2,1,1865,1961,7050,2024
+T1082,182 Sample Street,North York,Townhouse,980714,3,2,2132,1962,7100,2024
+T1083,183 Sample Street,Etobicoke,Condo,1044557,4,3,1760,1963,7150,2024
+T1084,184 Sample Street,Scarborough,Condo Townhouse,725326,1,1,1998,1964,7200,2024
+T1085,185 Sample Street,The Beaches,Detached,902323,2,2,2112,1965,7250,2024
+T1086,186 Sample Street,Leslieville,Semi-Detached,864708,3,3,1915,1966,7300,2024
+T1087,187 Sample Street,King West,Townhouse,840376,4,1,2182,1967,7350,2024
+T1088,188 Sample Street,Liberty Village,Condo,718421,1,2,1810,1968,7400,2024
+T1089,189 Sample Street,Corktown,Condo Townhouse,717026,2,3,2048,1969,7450,2024
+T1090,190 Sample Street,Downtown,Detached,1062400,3,1,2162,1970,7500,2024
+T1091,191 Sample Street,Midtown,Semi-Detached,736638,4,2,1965,1971,7550,2024
+T1092,192 Sample Street,North York,Townhouse,990714,1,3,2232,1972,7600,2024
+T1093,193 Sample Street,Etobicoke,Condo,1054557,2,1,1860,1973,7650,2024
+T1094,194 Sample Street,Scarborough,Condo Townhouse,735326,3,2,2098,1974,7700,2024
+T1095,195 Sample Street,The Beaches,Detached,912323,4,3,2212,1975,7750,2024
+T1096,196 Sample Street,Leslieville,Semi-Detached,874708,1,1,2015,1976,7800,2024
+T1097,197 Sample Street,King West,Townhouse,850376,2,2,2282,1977,7850,2024
+T1098,198 Sample Street,Liberty Village,Condo,728421,3,3,1910,1978,7900,2024
+T1099,199 Sample Street,Corktown,Condo Townhouse,727026,4,1,2148,1979,7950,2024
+T1100,200 Sample Street,Downtown,Detached,1072400,1,2,2262,1980,8000,2024
+T1101,201 Sample Street,Midtown,Semi-Detached,746638,2,3,2065,1981,8050,2024
+T1102,202 Sample Street,North York,Townhouse,1000714,3,1,2332,1982,8100,2024
+T1103,203 Sample Street,Etobicoke,Condo,1064557,4,2,1960,1983,8150,2024
+T1104,204 Sample Street,Scarborough,Condo Townhouse,745326,1,3,2198,1984,8200,2024
+T1105,205 Sample Street,The Beaches,Detached,922323,2,1,2312,1985,8250,2024
+T1106,206 Sample Street,Leslieville,Semi-Detached,884708,3,2,2115,1986,8300,2024
+T1107,207 Sample Street,King West,Townhouse,860376,4,3,2382,1987,8350,2024
+T1108,208 Sample Street,Liberty Village,Condo,738421,1,1,2010,1988,8400,2024
+T1109,209 Sample Street,Corktown,Condo Townhouse,737026,2,2,2248,1989,8450,2024
+T1110,210 Sample Street,Downtown,Detached,1082400,3,3,2362,1990,8500,2024
+T1111,211 Sample Street,Midtown,Semi-Detached,756638,4,1,2165,1991,8550,2024
+T1112,212 Sample Street,North York,Townhouse,1010714,1,2,2432,1992,8600,2024
+T1113,213 Sample Street,Etobicoke,Condo,1074557,2,3,2060,1993,8650,2024
+T1114,214 Sample Street,Scarborough,Condo Townhouse,755326,3,1,2298,1994,8700,2024
+T1115,215 Sample Street,The Beaches,Detached,932323,4,2,2412,1995,8750,2024
+T1116,216 Sample Street,Leslieville,Semi-Detached,894708,1,3,2215,1996,8800,2024
+T1117,217 Sample Street,King West,Townhouse,870376,2,1,2482,1997,8850,2024
+T1118,218 Sample Street,Liberty Village,Condo,748421,3,2,2110,1998,8900,2024
+T1119,219 Sample Street,Corktown,Condo Townhouse,747026,4,3,2348,1999,8950,2024
+T1120,220 Sample Street,Downtown,Detached,1092400,1,1,2462,2000,9000,2024
+T1121,221 Sample Street,Midtown,Semi-Detached,766638,2,2,2265,2001,9050,2024
+T1122,222 Sample Street,North York,Townhouse,1020714,3,3,2532,2002,9100,2024
+T1123,223 Sample Street,Etobicoke,Condo,1084557,4,1,2160,2003,9150,2024
+T1124,224 Sample Street,Scarborough,Condo Townhouse,765326,1,2,2398,2004,9200,2024
+T1125,225 Sample Street,The Beaches,Detached,942323,2,3,2512,2005,9250,2024
+T1126,226 Sample Street,Leslieville,Semi-Detached,904708,3,1,2315,2006,9300,2024
+T1127,227 Sample Street,King West,Townhouse,880376,4,2,2582,2007,9350,2024
+T1128,228 Sample Street,Liberty Village,Condo,758421,1,3,2210,2008,9400,2024
+T1129,229 Sample Street,Corktown,Condo Townhouse,757026,2,1,2448,2009,9450,2024
+T1130,230 Sample Street,Downtown,Detached,1102400,3,2,2562,2010,9500,2024
+T1131,231 Sample Street,Midtown,Semi-Detached,776638,4,3,2365,2011,9550,2024
+T1132,232 Sample Street,North York,Townhouse,1030714,1,1,2632,2012,9600,2024
+T1133,233 Sample Street,Etobicoke,Condo,1094557,2,2,2260,2013,9650,2024
+T1134,234 Sample Street,Scarborough,Condo Townhouse,775326,3,3,2498,2014,9700,2024
+T1135,235 Sample Street,The Beaches,Detached,952323,4,1,2612,2015,9750,2024
+T1136,236 Sample Street,Leslieville,Semi-Detached,914708,1,2,2415,2016,9800,2024
+T1137,237 Sample Street,King West,Townhouse,890376,2,3,2682,2017,9850,2024
+T1138,238 Sample Street,Liberty Village,Condo,768421,3,1,2310,2018,9900,2024
+T1139,239 Sample Street,Corktown,Condo Townhouse,767026,4,2,2548,2019,9950,2024
+T1140,240 Sample Street,Downtown,Detached,1112400,1,3,2662,1950,10000,2024
+T1141,241 Sample Street,Midtown,Semi-Detached,786638,2,1,2465,1951,10050,2024
+T1142,242 Sample Street,North York,Townhouse,1040714,3,2,2732,1952,10100,2024
+T1143,243 Sample Street,Etobicoke,Condo,1104557,4,3,2360,1953,10150,2024
+T1144,244 Sample Street,Scarborough,Condo Townhouse,785326,1,1,2598,1954,10200,2024
+T1145,245 Sample Street,The Beaches,Detached,962323,2,2,2712,1955,10250,2024
+T1146,246 Sample Street,Leslieville,Semi-Detached,924708,3,3,2515,1956,10300,2024
+T1147,247 Sample Street,King West,Townhouse,900376,4,1,2782,1957,10350,2024
+T1148,248 Sample Street,Liberty Village,Condo,778421,1,2,2410,1958,10400,2024
+T1149,249 Sample Street,Corktown,Condo Townhouse,777026,2,3,2648,1959,10450,2024
+T1150,250 Sample Street,Downtown,Detached,1122400,3,1,2762,1960,10500,2024
+T1151,251 Sample Street,Midtown,Semi-Detached,796638,4,2,2565,1961,10550,2024
+T1152,252 Sample Street,North York,Townhouse,1050714,1,3,2832,1962,10600,2024
+T1153,253 Sample Street,Etobicoke,Condo,1114557,2,1,2460,1963,10650,2024
+T1154,254 Sample Street,Scarborough,Condo Townhouse,795326,3,2,2698,1964,10700,2024
+T1155,255 Sample Street,The Beaches,Detached,972323,4,3,2812,1965,10750,2024
+T1156,256 Sample Street,Leslieville,Semi-Detached,934708,1,1,2615,1966,10800,2024
+T1157,257 Sample Street,King West,Townhouse,910376,2,2,2882,1967,10850,2024
+T1158,258 Sample Street,Liberty Village,Condo,788421,3,3,2510,1968,10900,2024
+T1159,259 Sample Street,Corktown,Condo Townhouse,787026,4,1,2748,1969,10950,2024
+T1160,260 Sample Street,Downtown,Detached,1132400,1,2,2862,1970,11000,2024
+T1161,261 Sample Street,Midtown,Semi-Detached,806638,2,3,2665,1971,11050,2024
+T1162,262 Sample Street,North York,Townhouse,1060714,3,1,2932,1972,11100,2024
+T1163,263 Sample Street,Etobicoke,Condo,1124557,4,2,2560,1973,11150,2024
+T1164,264 Sample Street,Scarborough,Condo Townhouse,805326,1,3,2798,1974,11200,2024
+T1165,265 Sample Street,The Beaches,Detached,982323,2,1,2912,1975,11250,2024
+T1166,266 Sample Street,Leslieville,Semi-Detached,944708,3,2,2715,1976,11300,2024
+T1167,267 Sample Street,King West,Townhouse,920376,4,3,2982,1977,11350,2024
+T1168,268 Sample Street,Liberty Village,Condo,798421,1,1,2610,1978,11400,2024
+T1169,269 Sample Street,Corktown,Condo Townhouse,797026,2,2,2848,1979,11450,2024
+T1170,270 Sample Street,Downtown,Detached,1142400,3,3,2962,1980,11500,2024
+T1171,271 Sample Street,Midtown,Semi-Detached,816638,4,1,2765,1981,11550,2024
+T1172,272 Sample Street,North York,Townhouse,1070714,1,2,3032,1982,11600,2024
+T1173,273 Sample Street,Etobicoke,Condo,1134557,2,3,2660,1983,11650,2024
+T1174,274 Sample Street,Scarborough,Condo Townhouse,815326,3,1,2898,1984,11700,2024
+T1175,275 Sample Street,The Beaches,Detached,992323,4,2,3012,1985,11750,2024
+T1176,276 Sample Street,Leslieville,Semi-Detached,954708,1,3,2815,1986,11800,2024
+T1177,277 Sample Street,King West,Townhouse,930376,2,1,3082,1987,11850,2024
+T1178,278 Sample Street,Liberty Village,Condo,808421,3,2,2710,1988,11900,2024
+T1179,279 Sample Street,Corktown,Condo Townhouse,807026,4,3,2948,1989,11950,2024
+T1180,280 Sample Street,Downtown,Detached,1152400,1,1,3062,1990,12000,2024
+T1181,281 Sample Street,Midtown,Semi-Detached,826638,2,2,2865,1991,12050,2024
+T1182,282 Sample Street,North York,Townhouse,1080714,3,3,3132,1992,12100,2024
+T1183,283 Sample Street,Etobicoke,Condo,1144557,4,1,2760,1993,12150,2024
+T1184,284 Sample Street,Scarborough,Condo Townhouse,825326,1,2,2998,1994,12200,2024
+T1185,285 Sample Street,The Beaches,Detached,1002323,2,3,3112,1995,12250,2024
+T1186,286 Sample Street,Leslieville,Semi-Detached,964708,3,1,2915,1996,12300,2024
+T1187,287 Sample Street,King West,Townhouse,940376,4,2,3182,1997,12350,2024
+T1188,288 Sample Street,Liberty Village,Condo,818421,1,3,2810,1998,12400,2024
+T1189,289 Sample Street,Corktown,Condo Townhouse,817026,2,1,3048,1999,12450,2024
+T1190,290 Sample Street,Downtown,Detached,1162400,3,2,3162,2000,12500,2024
+T1191,291 Sample Street,Midtown,Semi-Detached,836638,4,3,2965,2001,12550,2024
+T1192,292 Sample Street,North York,Townhouse,1090714,1,1,3232,2002,12600,2024
+T1193,293 Sample Street,Etobicoke,Condo,1154557,2,2,2860,2003,12650,2024
+T1194,294 Sample Street,Scarborough,Condo Townhouse,835326,3,3,3098,2004,12700,2024
+T1195,295 Sample Street,The Beaches,Detached,1012323,4,1,3212,2005,12750,2024
+T1196,296 Sample Street,Leslieville,Semi-Detached,974708,1,2,3015,2006,12800,2024
+T1197,297 Sample Street,King West,Townhouse,950376,2,3,3282,2007,12850,2024
+T1198,298 Sample Street,Liberty Village,Condo,828421,3,1,2910,2008,12900,2024
+T1199,299 Sample Street,Corktown,Condo Townhouse,827026,4,2,3148,2009,12950,2024
+T1200,300 Sample Street,Downtown,Detached,1172400,1,3,3262,2010,13000,2024
+T1201,301 Sample Street,Midtown,Semi-Detached,846638,2,1,3065,2011,13050,2024
+T1202,302 Sample Street,North York,Townhouse,1100714,3,2,3332,2012,13100,2024
+T1203,303 Sample Street,Etobicoke,Condo,1164557,4,3,2960,2013,13150,2024
+T1204,304 Sample Street,Scarborough,Condo Townhouse,845326,1,1,3198,2014,13200,2024
+T1205,305 Sample Street,The Beaches,Detached,1022323,2,2,3312,2015,13250,2024
+T1206,306 Sample Street,Leslieville,Semi-Detached,984708,3,3,3115,2016,13300,2024
+T1207,307 Sample Street,King West,Townhouse,960376,4,1,3382,2017,13350,2024
+T1208,308 Sample Street,Liberty Village,Condo,838421,1,2,3010,2018,13400,2024
+T1209,309 Sample Street,Corktown,Condo Townhouse,837026,2,3,3248,2019,13450,2024
+T1210,310 Sample Street,Downtown,Detached,1182400,3,1,3362,1950,13500,2024
+T1211,311 Sample Street,Midtown,Semi-Detached,856638,4,2,3165,1951,13550,2024
+T1212,312 Sample Street,North York,Townhouse,1110714,1,3,3432,1952,13600,2024
+T1213,313 Sample Street,Etobicoke,Condo,1174557,2,1,3060,1953,13650,2024
+T1214,314 Sample Street,Scarborough,Condo Townhouse,855326,3,2,3298,1954,13700,2024
+T1215,315 Sample Street,The Beaches,Detached,1032323,4,3,3412,1955,13750,2024
+T1216,316 Sample Street,Leslieville,Semi-Detached,994708,1,1,3215,1956,13800,2024
+T1217,317 Sample Street,King West,Townhouse,970376,2,2,3482,1957,13850,2024
+T1218,318 Sample Street,Liberty Village,Condo,848421,3,3,3110,1958,13900,2024
+T1219,319 Sample Street,Corktown,Condo Townhouse,847026,4,1,3348,1959,13950,2024
+T1220,320 Sample Street,Downtown,Detached,1192400,1,2,3462,1960,14000,2024
+T1221,321 Sample Street,Midtown,Semi-Detached,866638,2,3,3265,1961,14050,2024
+T1222,322 Sample Street,North York,Townhouse,1120714,3,1,3532,1962,14100,2024
+T1223,323 Sample Street,Etobicoke,Condo,1184557,4,2,3160,1963,14150,2024
+T1224,324 Sample Street,Scarborough,Condo Townhouse,865326,1,3,3398,1964,14200,2024
+T1225,325 Sample Street,The Beaches,Detached,1042323,2,1,3512,1965,14250,2024
+T1226,326 Sample Street,Leslieville,Semi-Detached,1004708,3,2,3315,1966,14300,2024
+T1227,327 Sample Street,King West,Townhouse,980376,4,3,3582,1967,14350,2024
+T1228,328 Sample Street,Liberty Village,Condo,858421,1,1,3210,1968,14400,2024
+T1229,329 Sample Street,Corktown,Condo Townhouse,857026,2,2,3448,1969,14450,2024
+T1230,330 Sample Street,Downtown,Detached,1202400,3,3,3562,1970,14500,2024
+T1231,331 Sample Street,Midtown,Semi-Detached,876638,4,1,3365,1971,14550,2024
+T1232,332 Sample Street,North York,Townhouse,1130714,1,2,3632,1972,14600,2024
+T1233,333 Sample Street,Etobicoke,Condo,1194557,2,3,3260,1973,14650,2024
+T1234,334 Sample Street,Scarborough,Condo Townhouse,875326,3,1,3498,1974,14700,2024
+T1235,335 Sample Street,The Beaches,Detached,1052323,4,2,3612,1975,14750,2024
+T1236,336 Sample Street,Leslieville,Semi-Detached,1014708,1,3,3415,1976,14800,2024
+T1237,337 Sample Street,King West,Townhouse,990376,2,1,3682,1977,14850,2024
+T1238,338 Sample Street,Liberty Village,Condo,868421,3,2,3310,1978,14900,2024
+T1239,339 Sample Street,Corktown,Condo Townhouse,867026,4,3,3548,1979,14950,2024
+T1240,340 Sample Street,Downtown,Detached,1212400,1,1,3662,1980,15000,2024
+T1241,341 Sample Street,Midtown,Semi-Detached,886638,2,2,3465,1981,15050,2024
+T1242,342 Sample Street,North York,Townhouse,1140714,3,3,3732,1982,15100,2024
+T1243,343 Sample Street,Etobicoke,Condo,1204557,4,1,3360,1983,15150,2024
+T1244,344 Sample Street,Scarborough,Condo Townhouse,885326,1,2,3598,1984,15200,2024
+T1245,345 Sample Street,The Beaches,Detached,1062323,2,3,3712,1985,15250,2024
+T1246,346 Sample Street,Leslieville,Semi-Detached,1024708,3,1,3515,1986,15300,2024
+T1247,347 Sample Street,King West,Townhouse,1000376,4,2,3782,1987,15350,2024
+T1248,348 Sample Street,Liberty Village,Condo,878421,1,3,3410,1988,15400,2024
+T1249,349 Sample Street,Corktown,Condo Townhouse,877026,2,1,3648,1989,15450,2024
+T1250,350 Sample Street,Downtown,Detached,1222400,3,2,3762,1990,15500,2024
+T1251,351 Sample Street,Midtown,Semi-Detached,896638,4,3,3565,1991,15550,2024
+T1252,352 Sample Street,North York,Townhouse,1150714,1,1,3832,1992,15600,2024
+T1253,353 Sample Street,Etobicoke,Condo,1214557,2,2,3460,1993,15650,2024
+T1254,354 Sample Street,Scarborough,Condo Townhouse,895326,3,3,3698,1994,15700,2024
+T1255,355 Sample Street,The Beaches,Detached,1072323,4,1,3812,1995,15750,2024
+T1256,356 Sample Street,Leslieville,Semi-Detached,1034708,1,2,3615,1996,15800,2024
+T1257,357 Sample Street,King West,Townhouse,1010376,2,3,3882,1997,15850,2024
+T1258,358 Sample Street,Liberty Village,Condo,888421,3,1,3510,1998,15900,2024
+T1259,359 Sample Street,Corktown,Condo Townhouse,887026,4,2,3748,1999,15950,2024
+T1260,360 Sample Street,Downtown,Detached,1232400,1,3,3862,2000,16000,2024
+T1261,361 Sample Street,Midtown,Semi-Detached,906638,2,1,3665,2001,16050,2024
+T1262,362 Sample Street,North York,Townhouse,1160714,3,2,3932,2002,16100,2024
+T1263,363 Sample Street,Etobicoke,Condo,1224557,4,3,3560,2003,16150,2024
+T1264,364 Sample Street,Scarborough,Condo Townhouse,905326,1,1,3798,2004,16200,2024
+T1265,365 Sample Street,The Beaches,Detached,1082323,2,2,3912,2005,16250,2024
+T1266,366 Sample Street,Leslieville,Semi-Detached,1044708,3,3,3715,2006,16300,2024
+T1267,367 Sample Street,King West,Townhouse,1020376,4,1,3982,2007,16350,2024
+T1268,368 Sample Street,Liberty Village,Condo,898421,1,2,3610,2008,16400,2024
+T1269,369 Sample Street,Corktown,Condo Townhouse,897026,2,3,3848,2009,16450,2024
+T1270,370 Sample Street,Downtown,Detached,1242400,3,1,3962,2010,16500,2024
+T1271,371 Sample Street,Midtown,Semi-Detached,916638,4,2,3765,2011,16550,2024
+T1272,372 Sample Street,North York,Townhouse,1170714,1,3,4032,2012,16600,2024
+T1273,373 Sample Street,Etobicoke,Condo,1234557,2,1,3660,2013,16650,2024
+T1274,374 Sample Street,Scarborough,Condo Townhouse,915326,3,2,3898,2014,16700,2024
+T1275,375 Sample Street,The Beaches,Detached,1092323,4,3,4012,2015,16750,2024
+T1276,376 Sample Street,Leslieville,Semi-Detached,1054708,1,1,3815,2016,16800,2024
+T1277,377 Sample Street,King West,Townhouse,1030376,2,2,4082,2017,16850,2024
+T1278,378 Sample Street,Liberty Village,Condo,908421,3,3,3710,2018,16900,2024
+T1279,379 Sample Street,Corktown,Condo Townhouse,907026,4,1,3948,2019,16950,2024
+T1280,380 Sample Street,Downtown,Detached,1252400,1,2,4062,1950,17000,2024
+T1281,381 Sample Street,Midtown,Semi-Detached,926638,2,3,3865,1951,17050,2024
+T1282,382 Sample Street,North York,Townhouse,1180714,3,1,4132,1952,17100,2024
+T1283,383 Sample Street,Etobicoke,Condo,1244557,4,2,3760,1953,17150,2024
+T1284,384 Sample Street,Scarborough,Condo Townhouse,925326,1,3,3998,1954,17200,2024
+T1285,385 Sample Street,The Beaches,Detached,1102323,2,1,4112,1955,17250,2024
+T1286,386 Sample Street,Leslieville,Semi-Detached,1064708,3,2,3915,1956,17300,2024
+T1287,387 Sample Street,King West,Townhouse,1040376,4,3,4182,1957,17350,2024
+T1288,388 Sample Street,Liberty Village,Condo,918421,1,1,3810,1958,17400,2024
+T1289,389 Sample Street,Corktown,Condo Townhouse,917026,2,2,4048,1959,17450,2024
+T1290,390 Sample Street,Downtown,Detached,1262400,3,3,4162,1960,17500,2024
+T1291,391 Sample Street,Midtown,Semi-Detached,936638,4,1,3965,1961,17550,2024
+T1292,392 Sample Street,North York,Townhouse,1190714,1,2,4232,1962,17600,2024
+T1293,393 Sample Street,Etobicoke,Condo,1254557,2,3,3860,1963,17650,2024
+T1294,394 Sample Street,Scarborough,Condo Townhouse,935326,3,1,4098,1964,17700,2024
+T1295,395 Sample Street,The Beaches,Detached,1112323,4,2,4212,1965,17750,2024
+T1296,396 Sample Street,Leslieville,Semi-Detached,1074708,1,3,4015,1966,17800,2024
+T1297,397 Sample Street,King West,Townhouse,1050376,2,1,4282,1967,17850,2024
+T1298,398 Sample Street,Liberty Village,Condo,928421,3,2,3910,1968,17900,2024
+T1299,399 Sample Street,Corktown,Condo Townhouse,927026,4,3,4148,1969,17950,2024
+T1300,400 Sample Street,Downtown,Detached,1272400,1,1,4262,1970,18000,2024
+T1301,401 Sample Street,Midtown,Semi-Detached,946638,2,2,4065,1971,18050,2024
+T1302,402 Sample Street,North York,Townhouse,1200714,3,3,4332,1972,18100,2024
+T1303,403 Sample Street,Etobicoke,Condo,1264557,4,1,3960,1973,18150,2024
+T1304,404 Sample Street,Scarborough,Condo Townhouse,945326,1,2,4198,1974,18200,2024
+T1305,405 Sample Street,The Beaches,Detached,1122323,2,3,4312,1975,18250,2024
+T1306,406 Sample Street,Leslieville,Semi-Detached,1084708,3,1,4115,1976,18300,2024
+T1307,407 Sample Street,King West,Townhouse,1060376,4,2,4382,1977,18350,2024
+T1308,408 Sample Street,Liberty Village,Condo,938421,1,3,4010,1978,18400,2024
+T1309,409 Sample Street,Corktown,Condo Townhouse,937026,2,1,4248,1979,18450,2024
+T1310,410 Sample Street,Downtown,Detached,1282400,3,2,4362,1980,18500,2024
+T1311,411 Sample Street,Midtown,Semi-Detached,956638,4,3,4165,1981,18550,2024
+T1312,412 Sample Street,North York,Townhouse,1210714,1,1,4432,1982,18600,2024
+T1313,413 Sample Street,Etobicoke,Condo,1274557,2,2,4060,1983,18650,2024
+T1314,414 Sample Street,Scarborough,Condo Townhouse,955326,3,3,4298,1984,18700,2024
+T1315,415 Sample Street,The Beaches,Detached,1132323,4,1,4412,1985,18750,2024
+T1316,416 Sample Street,Leslieville,Semi-Detached,1094708,1,2,4215,1986,18800,2024
+T1317,417 Sample Street,King West,Townhouse,1070376,2,3,4482,1987,18850,2024
+T1318,418 Sample Street,Liberty Village,Condo,948421,3,1,4110,1988,18900,2024
+T1319,419 Sample Street,Corktown,Condo Townhouse,947026,4,2,4348,1989,18950,2024
+T1320,420 Sample Street,Downtown,Detached,1292400,1,3,4462,1990,19000,2024
+T1321,421 Sample Street,Midtown,Semi-Detached,966638,2,1,4265,1991,19050,2024
+T1322,422 Sample Street,North York,Townhouse,1220714,3,2,4532,1992,19100,2024
+T1323,423 Sample Street,Etobicoke,Condo,1284557,4,3,4160,1993,19150,2024
+T1324,424 Sample Street,Scarborough,Condo Townhouse,965326,1,1,4398,1994,19200,2024
+T1325,425 Sample Street,The Beaches,Detached,1142323,2,2,4512,1995,19250,2024
+T1326,426 Sample Street,Leslieville,Semi-Detached,1104708,3,3,4315,1996,19300,2024
+T1327,427 Sample Street,King West,Townhouse,1080376,4,1,4582,1997,19350,2024
+T1328,428 Sample Street,Liberty Village,Condo,958421,1,2,4210,1998,19400,2024
+T1329,429 Sample Street,Corktown,Condo Townhouse,957026,2,3,4448,1999,19450,2024
+T1330,430 Sample Street,Downtown,Detached,1302400,3,1,4562,2000,19500,2024
+T1331,431 Sample Street,Midtown,Semi-Detached,976638,4,2,4365,2001,19550,2024
+T1332,432 Sample Street,North York,Townhouse,1230714,1,3,4632,2002,19600,2024
+T1333,433 Sample Street,Etobicoke,Condo,1294557,2,1,4260,2003,19650,2024
+T1334,434 Sample Street,Scarborough,Condo Townhouse,975326,3,2,4498,2004,19700,2024
+T1335,435 Sample Street,The Beaches,Detached,1152323,4,3,4612,2005,19750,2024
+T1336,436 Sample Street,Leslieville,Semi-Detached,1114708,1,1,4415,2006,19800,2024
+T1337,437 Sample Street,King West,Townhouse,1090376,2,2,4682,2007,19850,2024
+T1338,438 Sample Street,Liberty Village,Condo,968421,3,3,4310,2008,19900,2024
+T1339,439 Sample Street,Corktown,Condo Townhouse,967026,4,1,4548,2009,19950,2024
+T1340,440 Sample Street,Downtown,Detached,1312400,1,2,4662,2010,20000,2024
+T1341,441 Sample Street,Midtown,Semi-Detached,986638,2,3,4465,2011,20050,2024
+T1342,442 Sample Street,North York,Townhouse,1240714,3,1,4732,2012,20100,2024
+T1343,443 Sample Street,Etobicoke,Condo,1304557,4,2,4360,2013,20150,2024
+T1344,444 Sample Street,Scarborough,Condo Townhouse,985326,1,3,4598,2014,20200,2024
+T1345,445 Sample Street,The Beaches,Detached,1162323,2,1,4712,2015,20250,2024
+T1346,446 Sample Street,Leslieville,Semi-Detached,1124708,3,2,4515,2016,20300,2024
+T1347,447 Sample Street,King West,Townhouse,1100376,4,3,4782,2017,20350,2024
+T1348,448 Sample Street,Liberty Village,Condo,978421,1,1,4410,2018,20400,2024
+T1349,449 Sample Street,Corktown,Condo Townhouse,977026,2,2,4648,2019,20450,2024
+T1350,450 Sample Street,Downtown,Detached,1322400,3,3,4762,1950,20500,2024
+T1351,451 Sample Street,Midtown,Semi-Detached,996638,4,1,4565,1951,20550,2024
+T1352,452 Sample Street,North York,Townhouse,1250714,1,2,4832,1952,20600,2024
+T1353,453 Sample Street,Etobicoke,Condo,1314557,2,3,4460,1953,20650,2024
+T1354,454 Sample Street,Scarborough,Condo Townhouse,995326,3,1,4698,1954,20700,2024
+T1355,455 Sample Street,The Beaches,Detached,1172323,4,2,4812,1955,20750,2024
+T1356,456 Sample Street,Leslieville,Semi-Detached,1134708,1,3,4615,1956,20800,2024
+T1357,457 Sample Street,King West,Townhouse,1110376,2,1,4882,1957,20850,2024
+T1358,458 Sample Street,Liberty Village,Condo,988421,3,2,4510,1958,20900,2024
+T1359,459 Sample Street,Corktown,Condo Townhouse,987026,4,3,4748,1959,20950,2024
+T1360,460 Sample Street,Downtown,Detached,1332400,1,1,4862,1960,21000,2024
+T1361,461 Sample Street,Midtown,Semi-Detached,1006638,2,2,4665,1961,21050,2024
+T1362,462 Sample Street,North York,Townhouse,1260714,3,3,4932,1962,21100,2024
+T1363,463 Sample Street,Etobicoke,Condo,1324557,4,1,4560,1963,21150,2024
+T1364,464 Sample Street,Scarborough,Condo Townhouse,1005326,1,2,4798,1964,21200,2024
+T1365,465 Sample Street,The Beaches,Detached,1182323,2,3,4912,1965,21250,2024
+T1366,466 Sample Street,Leslieville,Semi-Detached,1144708,3,1,4715,1966,21300,2024
+T1367,467 Sample Street,King West,Townhouse,1120376,4,2,4982,1967,21350,2024
+T1368,468 Sample Street,Liberty Village,Condo,998421,1,3,4610,1968,21400,2024
+T1369,469 Sample Street,Corktown,Condo Townhouse,997026,2,1,4848,1969,21450,2024
+T1370,470 Sample Street,Downtown,Detached,1342400,3,2,4962,1970,21500,2024
+T1371,471 Sample Street,Midtown,Semi-Detached,1016638,4,3,4765,1971,21550,2024
+T1372,472 Sample Street,North York,Townhouse,1270714,1,1,5032,1972,21600,2024
+T1373,473 Sample Street,Etobicoke,Condo,1334557,2,2,4660,1973,21650,2024
+T1374,474 Sample Street,Scarborough,Condo Townhouse,1015326,3,3,4898,1974,21700,2024
+T1375,475 Sample Street,The Beaches,Detached,1192323,4,1,5012,1975,21750,2024
+T1376,476 Sample Street,Leslieville,Semi-Detached,1154708,1,2,4815,1976,21800,2024
+T1377,477 Sample Street,King West,Townhouse,1130376,2,3,5082,1977,21850,2024
+T1378,478 Sample Street,Liberty Village,Condo,1008421,3,1,4710,1978,21900,2024
+T1379,479 Sample Street,Corktown,Condo Townhouse,1007026,4,2,4948,1979,21950,2024
+T1380,480 Sample Street,Downtown,Detached,1352400,1,3,5062,1980,22000,2024
+T1381,481 Sample Street,Midtown,Semi-Detached,1026638,2,1,4865,1981,22050,2024
+T1382,482 Sample Street,North York,Townhouse,1280714,3,2,5132,1982,22100,2024
+T1383,483 Sample Street,Etobicoke,Condo,1344557,4,3,4760,1983,22150,2024
+T1384,484 Sample Street,Scarborough,Condo Townhouse,1025326,1,1,4998,1984,22200,2024
+T1385,485 Sample Street,The Beaches,Detached,1202323,2,2,5112,1985,22250,2024
+T1386,486 Sample Street,Leslieville,Semi-Detached,1164708,3,3,4915,1986,22300,2024
+T1387,487 Sample Street,King West,Townhouse,1140376,4,1,5182,1987,22350,2024
+T1388,488 Sample Street,Liberty Village,Condo,1018421,1,2,4810,1988,22400,2024
+T1389,489 Sample Street,Corktown,Condo Townhouse,1017026,2,3,5048,1989,22450,2024
+T1390,490 Sample Street,Downtown,Detached,1362400,3,1,5162,1990,22500,2024
+T1391,491 Sample Street,Midtown,Semi-Detached,1036638,4,2,4965,1991,22550,2024
+T1392,492 Sample Street,North York,Townhouse,1290714,1,3,5232,1992,22600,2024
+T1393,493 Sample Street,Etobicoke,Condo,1354557,2,1,4860,1993,22650,2024
+T1394,494 Sample Street,Scarborough,Condo Townhouse,1035326,3,2,5098,1994,22700,2024
+T1395,495 Sample Street,The Beaches,Detached,1212323,4,3,5212,1995,22750,2024
+T1396,496 Sample Street,Leslieville,Semi-Detached,1174708,1,1,5015,1996,22800,2024
+T1397,497 Sample Street,King West,Townhouse,1150376,2,2,5282,1997,22850,2024
+T1398,498 Sample Street,Liberty Village,Condo,1028421,3,3,4910,1998,22900,2024
+T1399,499 Sample Street,Corktown,Condo Townhouse,1027026,4,1,5148,1999,22950,2024
+T1400,500 Sample Street,Downtown,Detached,1372400,1,2,5262,2000,23000,2024
+T1401,501 Sample Street,Midtown,Semi-Detached,1046638,2,3,5065,2001,23050,2024
+T1402,502 Sample Street,North York,Townhouse,1300714,3,1,5332,2002,23100,2024
+T1403,503 Sample Street,Etobicoke,Condo,1364557,4,2,4960,2003,23150,2024
+T1404,504 Sample Street,Scarborough,Condo Townhouse,1045326,1,3,5198,2004,23200,2024
+T1405,505 Sample Street,The Beaches,Detached,1222323,2,1,5312,2005,23250,2024
+T1406,506 Sample Street,Leslieville,Semi-Detached,1184708,3,2,5115,2006,23300,2024
+T1407,507 Sample Street,King West,Townhouse,1160376,4,3,5382,2007,23350,2024
+T1408,508 Sample Street,Liberty Village,Condo,1038421,1,1,5010,2008,23400,2024
+T1409,509 Sample Street,Corktown,Condo Townhouse,1037026,2,2,5248,2009,23450,2024
+T1410,510 Sample Street,Downtown,Detached,1382400,3,3,5362,2010,23500,2024
+T1411,511 Sample Street,Midtown,Semi-Detached,1056638,4,1,5165,2011,23550,2024
+T1412,512 Sample Street,North York,Townhouse,1310714,1,2,5432,2012,23600,2024
+T1413,513 Sample Street,Etobicoke,Condo,1374557,2,3,5060,2013,23650,2024
+T1414,514 Sample Street,Scarborough,Condo Townhouse,1055326,3,1,5298,2014,23700,2024
+T1415,515 Sample Street,The Beaches,Detached,1232323,4,2,5412,2015,23750,2024
+T1416,516 Sample Street,Leslieville,Semi-Detached,1194708,1,3,5215,2016,23800,2024
+T1417,517 Sample Street,King West,Townhouse,1170376,2,1,5482,2017,23850,2024
+T1418,518 Sample Street,Liberty Village,Condo,1048421,3,2,5110,2018,23900,2024
+T1419,519 Sample Street,Corktown,Condo Townhouse,1047026,4,3,5348,2019,23950,2024
+T1420,520 Sample Street,Downtown,Detached,1392400,1,1,5462,1950,24000,2024
+T1421,521 Sample Street,Midtown,Semi-Detached,1066638,2,2,5265,1951,24050,2024
+T1422,522 Sample Street,North York,Townhouse,1320714,3,3,5532,1952,24100,2024
+T1423,523 Sample Street,Etobicoke,Condo,1384557,4,1,5160,1953,24150,2024
+T1424,524 Sample Street,Scarborough,Condo Townhouse,1065326,1,2,5398,1954,24200,2024
+T1425,525 Sample Street,The Beaches,Detached,1242323,2,3,5512,1955,24250,2024
+T1426,526 Sample Street,Leslieville,Semi-Detached,1204708,3,1,5315,1956,24300,2024
+T1427,527 Sample Street,King West,Townhouse,1180376,4,2,5582,1957,24350,2024
+T1428,528 Sample Street,Liberty Village,Condo,1058421,1,3,5210,1958,24400,2024
+T1429,529 Sample Street,Corktown,Condo Townhouse,1057026,2,1,5448,1959,24450,2024
+T1430,530 Sample Street,Downtown,Detached,1402400,3,2,5562,1960,24500,2024
+T1431,531 Sample Street,Midtown,Semi-Detached,1076638,4,3,5365,1961,24550,2024
+T1432,532 Sample Street,North York,Townhouse,1330714,1,1,5632,1962,24600,2024
+T1433,533 Sample Street,Etobicoke,Condo,1394557,2,2,5260,1963,24650,2024
+T1434,534 Sample Street,Scarborough,Condo Townhouse,1075326,3,3,5498,1964,24700,2024
+T1435,535 Sample Street,The Beaches,Detached,1252323,4,1,5612,1965,24750,2024
+T1436,536 Sample Street,Leslieville,Semi-Detached,1214708,1,2,5415,1966,24800,2024
+T1437,537 Sample Street,King West,Townhouse,1190376,2,3,5682,1967,24850,2024
+T1438,538 Sample Street,Liberty Village,Condo,1068421,3,1,5310,1968,24900,2024
+T1439,539 Sample Street,Corktown,Condo Townhouse,1067026,4,2,5548,1969,24950,2024
+T1440,540 Sample Street,Downtown,Detached,1412400,1,3,5662,1970,25000,2024
+T1441,541 Sample Street,Midtown,Semi-Detached,1086638,2,1,5465,1971,25050,2024
+T1442,542 Sample Street,North York,Townhouse,1340714,3,2,5732,1972,25100,2024
+T1443,543 Sample Street,Etobicoke,Condo,1404557,4,3,5360,1973,25150,2024
+T1444,544 Sample Street,Scarborough,Condo Townhouse,1085326,1,1,5598,1974,25200,2024
+T1445,545 Sample Street,The Beaches,Detached,1262323,2,2,5712,1975,25250,2024
+T1446,546 Sample Street,Leslieville,Semi-Detached,1224708,3,3,5515,1976,25300,2024
+T1447,547 Sample Street,King West,Townhouse,1200376,4,1,5782,1977,25350,2024
+T1448,548 Sample Street,Liberty Village,Condo,1078421,1,2,5410,1978,25400,2024
+T1449,549 Sample Street,Corktown,Condo Townhouse,1077026,2,3,5648,1979,25450,2024
+T1450,550 Sample Street,Downtown,Detached,1422400,3,1,5762,1980,25500,2024
+T1451,551 Sample Street,Midtown,Semi-Detached,1096638,4,2,5565,1981,25550,2024
+T1452,552 Sample Street,North York,Townhouse,1350714,1,3,5832,1982,25600,2024
+T1453,553 Sample Street,Etobicoke,Condo,1414557,2,1,5460,1983,25650,2024
+T1454,554 Sample Street,Scarborough,Condo Townhouse,1095326,3,2,5698,1984,25700,2024
+T1455,555 Sample Street,The Beaches,Detached,1272323,4,3,5812,1985,25750,2024
+T1456,556 Sample Street,Leslieville,Semi-Detached,1234708,1,1,5615,1986,25800,2024
+T1457,557 Sample Street,King West,Townhouse,1210376,2,2,5882,1987,25850,2024
+T1458,558 Sample Street,Liberty Village,Condo,1088421,3,3,5510,1988,25900,2024
+T1459,559 Sample Street,Corktown,Condo Townhouse,1087026,4,1,5748,1989,25950,2024
+T1460,560 Sample Street,Downtown,Detached,1432400,1,2,5862,1990,26000,2024
+T1461,561 Sample Street,Midtown,Semi-Detached,1106638,2,3,5665,1991,26050,2024
+T1462,562 Sample Street,North York,Townhouse,1360714,3,1,5932,1992,26100,2024
+T1463,563 Sample Street,Etobicoke,Condo,1424557,4,2,5560,1993,26150,2024
+T1464,564 Sample Street,Scarborough,Condo Townhouse,1105326,1,3,5798,1994,26200,2024
+T1465,565 Sample Street,The Beaches,Detached,1282323,2,1,5912,1995,26250,2024
+T1466,566 Sample Street,Leslieville,Semi-Detached,1244708,3,2,5715,1996,26300,2024
+T1467,567 Sample Street,King West,Townhouse,1220376,4,3,5982,1997,26350,2024
+T1468,568 Sample Street,Liberty Village,Condo,1098421,1,1,5610,1998,26400,2024
+T1469,569 Sample Street,Corktown,Condo Townhouse,1097026,2,2,5848,1999,26450,2024
+T1470,570 Sample Street,Downtown,Detached,1442400,3,3,5962,2000,26500,2024
+T1471,571 Sample Street,Midtown,Semi-Detached,1116638,4,1,5765,2001,26550,2024
+T1472,572 Sample Street,North York,Townhouse,1370714,1,2,6032,2002,26600,2024
+T1473,573 Sample Street,Etobicoke,Condo,1434557,2,3,5660,2003,26650,2024
+T1474,574 Sample Street,Scarborough,Condo Townhouse,1115326,3,1,5898,2004,26700,2024
+T1475,575 Sample Street,The Beaches,Detached,1292323,4,2,6012,2005,26750,2024
+T1476,576 Sample Street,Leslieville,Semi-Detached,1254708,1,3,5815,2006,26800,2024
+T1477,577 Sample Street,King West,Townhouse,1230376,2,1,6082,2007,26850,2024
+T1478,578 Sample Street,Liberty Village,Condo,1108421,3,2,5710,2008,26900,2024
+T1479,579 Sample Street,Corktown,Condo Townhouse,1107026,4,3,5948,2009,26950,2024
+T1480,580 Sample Street,Downtown,Detached,1452400,1,1,6062,2010,27000,2024
+T1481,581 Sample Street,Midtown,Semi-Detached,1126638,2,2,5865,2011,27050,2024
+T1482,582 Sample Street,North York,Townhouse,1380714,3,3,6132,2012,27100,2024
+T1483,583 Sample Street,Etobicoke,Condo,1444557,4,1,5760,2013,27150,2024
+T1484,584 Sample Street,Scarborough,Condo Townhouse,1125326,1,2,5998,2014,27200,2024
+T1485,585 Sample Street,The Beaches,Detached,1302323,2,3,6112,2015,27250,2024
+T1486,586 Sample Street,Leslieville,Semi-Detached,1264708,3,1,5915,2016,27300,2024
+T1487,587 Sample Street,King West,Townhouse,1240376,4,2,6182,2017,27350,2024
+T1488,588 Sample Street,Liberty Village,Condo,1118421,1,3,5810,2018,27400,2024
+T1489,589 Sample Street,Corktown,Condo Townhouse,1117026,2,1,6048,2019,27450,2024
+T1490,590 Sample Street,Downtown,Detached,1462400,3,2,6162,1950,27500,2024
+T1491,591 Sample Street,Midtown,Semi-Detached,1136638,4,3,5965,1951,27550,2024
+T1492,592 Sample Street,North York,Townhouse,1390714,1,1,6232,1952,27600,2024
+T1493,593 Sample Street,Etobicoke,Condo,1454557,2,2,5860,1953,27650,2024
+T1494,594 Sample Street,Scarborough,Condo Townhouse,1135326,3,3,6098,1954,27700,2024
+T1495,595 Sample Street,The Beaches,Detached,1312323,4,1,6212,1955,27750,2024
+T1496,596 Sample Street,Leslieville,Semi-Detached,1274708,1,2,6015,1956,27800,2024
+T1497,597 Sample Street,King West,Townhouse,1250376,2,3,6282,1957,27850,2024
+T1498,598 Sample Street,Liberty Village,Condo,1128421,3,1,5910,1958,27900,2024
+T1499,599 Sample Street,Corktown,Condo Townhouse,1127026,4,2,6148,1959,27950,2024
